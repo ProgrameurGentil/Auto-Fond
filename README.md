@@ -1,6 +1,6 @@
-# Auto-Fond-Perso
-Auto-Fond is a python application for centralising and applying wallpapers in a single application. 
-
+# Auto-Fond
+Auto-Fond is a python application for centralising and applying wallpapers in a single application. <br/> <br/>
+<img src="https://skillicons.dev/icons?i=python" />
 
 # First use 
 - Put the exe file in a separate folder.
@@ -12,4 +12,4 @@ Auto-Fond is a python application for centralising and applying wallpapers in a 
 - Refresh the page using the dedicated button.
 
 # Problems ?
-Contact me
+Contact me : <a href="henzo.renet@etu.unilim.fr"> henzo.renet@etu.unilim.fr</a>
