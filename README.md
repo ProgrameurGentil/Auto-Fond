@@ -11,5 +11,8 @@ Auto-Fond is a python application for centralising and applying wallpapers in a 
 - Exit the settings.
 - Refresh the page using the dedicated button.
 
+> [!TIP]
+> You can change the file name (which is a bit long: it's the version name) to the shorter “Auto-Fond”.
+
 # Problems ?
 Contact me : <a href="henzo.renet@etu.unilim.fr"> henzo.renet@etu.unilim.fr</a>
