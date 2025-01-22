@@ -16,3 +16,6 @@ Auto-Fond is a python application for centralising and applying wallpapers in a 
 
 # Problems ?
 Contact me : <a href="henzo.renet@etu.unilim.fr"> henzo.renet@etu.unilim.fr</a>
+
+# Licence
+<p>You can find the license <a href="https://github.com/ProgrameurGentil/Auto-Fond/blob/main/LICENCE.md">here</a></p>
